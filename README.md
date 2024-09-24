@@ -12,7 +12,7 @@ Usage
 To use the Retina Disease Detection model:
 
 Clone the repository:
-git clone [https://github.com/yourusername/retina-disease-detection.git](https://github.com/VIGNESH-PROJECTWORK/Retina-Disease-Detection/)
+git clone [https://github.com/yourusername/ocular-disease-detection.git](https://github.com/vbxll/Ocular-disease-detection/)
 
 Navigate to the project directory:
 cd retina-disease-detection
